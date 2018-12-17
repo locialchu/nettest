@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\WebTest\.vs\WebTest\lut\0\b\WebTest.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Administrator\source\repos\WebTest\.vs\WebTest\lut\0\b\WebTest.Tests\bin\Debug\WebTest.Tests.dll
+C:\Users\Administrator\source\repos\WebTest\.vs\WebTest\lut\0\i\WebTest.Tests\Debug\WebTest.Tests.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WebTest\.vs\WebTest\lut\0\i\WebTest.Tests\Debug\WebTest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebTest\.vs\WebTest\lut\0\i\WebTest.Tests\Debug\WebTest.Tests.csproj.CopyComplete
+C:\Users\Administrator\source\repos\WebTest\.vs\WebTest\lut\0\i\WebTest.Tests\Debug\WebTest.Tests.dll
